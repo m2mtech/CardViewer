@@ -10,4 +10,7 @@
 
 @interface CardDisplayViewController : UIViewController
 
+@property (nonatomic) int rank;
+@property (nonatomic, strong) NSString *suit;
+
 @end
