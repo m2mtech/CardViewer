@@ -95,6 +95,7 @@
 		5B567BE716DE3BC800413710 /* Q♦@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Q♦@2x.png"; sourceTree = "<group>"; };
 		5B567BE816DE3BC800413710 /* PlayingCardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCardView.h; sourceTree = "<group>"; };
 		5B567BE916DE3BC800413710 /* PlayingCardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCardView.m; sourceTree = "<group>"; };
+		5B567C0516DE42C100413710 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +115,7 @@
 		5B567B9B16DE38B700413710 = {
 			isa = PBXGroup;
 			children = (
+				5B567C0516DE42C100413710 /* README */,
 				5B567BAD16DE38B800413710 /* CardViewer */,
 				5B567BA616DE38B800413710 /* Frameworks */,
 				5B567BA516DE38B800413710 /* Products */,
